@@ -1,10 +1,6 @@
 com/example/tssruntime/TssRuntimeApplication.class
-com/example/tssruntime/controller/UserController.class
 com/example/tssruntime/controller/TaskanaController.class
 com/example/tssruntime/controller/TaskanaController$CreateTaskRequest.class
 com/example/tssruntime/config/TaskanaConfig.class
-com/example/tssruntime/controller/TaskanaController$CreateClassificationRequest.class
-com/example/tssruntime/model/User.class
-com/example/tssruntime/repository/UserRepository.class
-com/example/tssruntime/service/UserService.class
 com/example/tssruntime/controller/TaskanaController$CreateWorkbasketRequest.class
+com/example/tssruntime/controller/TaskanaController$CreateClassificationRequest.class
